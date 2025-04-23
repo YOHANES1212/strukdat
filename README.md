@@ -1,0 +1,3 @@
+# strukdat
+# strukdat
+# strukdat
