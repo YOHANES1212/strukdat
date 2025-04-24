@@ -5,7 +5,7 @@ bool isEven(int n){
     return (n % 2 == 0);
 }
 
-int main(){
+int main() {
     int n = 12;
 
     if(isEven(n)){
