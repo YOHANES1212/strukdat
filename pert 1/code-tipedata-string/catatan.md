@@ -16,6 +16,6 @@ Merupakan cara untuk mengatur,menyimpan, dan mengorganisisr data dalam komputer 
 + queue
 + stack
 + linked list
-    struktur data linear
-        graph
-        tree
+    
++ struktur data non linear:
+>> data yang tidak ditempatkan secara berurutan, dan tidak dapat menelusuri data terserbut hanya sekali contohnya graph, dan tree
